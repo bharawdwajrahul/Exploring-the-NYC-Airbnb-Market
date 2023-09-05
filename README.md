@@ -1,6 +1,5 @@
 # Analyzing the New York City Airbnb Market
 Airbnb Market Analysis of NYC using python
-NYC Skyline
 
 **Introduction:**
 
